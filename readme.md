@@ -9,14 +9,14 @@ Experiments on **3 image datasets**: [FLICKR25K](https://press.liacs.nl/mirflick
 <!-- Download：
 [Link](https://github.com/thuml/HashNet/blob/master/pytorch/README.md)  -->
 
-### Dependencies
+## Dependencies
 
 - Python 3.8
 - Pytorch 1.10.1
 - torchvision 0.11.2
 - CUDA 11.1
 
-### Training example
+## Training example
 
 ```shell
 python train.py with umrch flickr hash_bit=16
