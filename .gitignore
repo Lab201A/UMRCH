@@ -1,0 +1,15 @@
+__pycache__/
+
+config.py
+run_history.sh
+.gitattributes
+
+tensorboard_logs/*
+npy/ircodes/*
+best_log/*
+checkpoints/*
+
+!tensorboard_logs/.gitkeep
+!npy/ircodes/.gitkeep
+!best_log/.gitkeep
+!checkpoints/.gitkeep
