@@ -6,9 +6,6 @@ This is the implementation of paper: Unsupervised Multi-semantic Similarity Reco
 
 Experiments on **3 image datasets**: [FLICKR25K](https://press.liacs.nl/mirflickr/mirdownload.html), [COCO2014](https://github.com/thuml/HashNet/blob/master/pytorch/README.md), [NUSWIDE](https://github.com/thuml/HashNet/blob/master/pytorch/README.md)。
 
-<!-- Download：
-[Link](https://github.com/thuml/HashNet/blob/master/pytorch/README.md)  -->
-
 ## Dependencies
 
 - Python 3.8
