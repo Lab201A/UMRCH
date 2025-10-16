@@ -16,8 +16,11 @@ Experiments on **3 image datasets**: [FLICKR25K](https://press.liacs.nl/mirflick
 - torchvision 0.11.2
 - CUDA 11.1
 
-## Training example
+## Training Example
 
 ```shell
 python train.py with umrch flickr hash_bit=16
 ```
+
+## Model Weights
+Download: [Link](https://pan.baidu.com/s/1e0TQikwuAQjrqSa2zA7vSQ?pwd=armd) 
