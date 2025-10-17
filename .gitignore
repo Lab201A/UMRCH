@@ -1,4 +1,5 @@
 __pycache__/
+.vscode/
 
 run_history.sh
 .gitattributes
@@ -6,9 +7,12 @@ run_history.sh
 tensorboard_logs/*
 npy/ircodes/*
 best_log/*
-checkpoints/*
+checkpoints/umrch_logs/*
 
 !tensorboard_logs/.gitkeep
 !npy/ircodes/.gitkeep
 !best_log/.gitkeep
-!checkpoints/.gitkeep
+!checkpoints/umrch_logs/.gitkeep
+
+*.zip
+*.cfg

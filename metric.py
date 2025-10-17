@@ -164,7 +164,7 @@ if __name__ == "__main__":
     parser.add_argument('--dataset', type=str, default='flickr')
     parser.add_argument('--hash_bit', type=int, default=32)
     parser.add_argument('--batch_size', type=int, default=32)
-    parser.add_argument('--method', type=str, default='orthocos')
+    parser.add_argument('--method', type=str, default='umrch')
     parser.add_argument('--ckpt', type=str, required=True)
 
     parser.add_argument('--iscode', action='store_true')
