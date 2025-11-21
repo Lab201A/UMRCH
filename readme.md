@@ -1,6 +1,6 @@
 # Unsupervised Multi-semantic Similarity Reconstruction Contrastive Hashing for Multi-label Image Retrieval
 
-This is the implementation of paper: Unsupervised Multi-semantic Similarity Reconstruction Contrastive Hashing for Multi-label Image Retrieval.
+This is the implementation of paper: Unsupervised Multi-semantic Similarity Reconstruction Contrastive Hashing for Multi-label Image Retrieval.(DOI: 10.1016/j.eswa.2025.130414)
 
 ## Datasets 
 
